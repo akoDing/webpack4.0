@@ -1,0 +1,10 @@
+$bgColor: rgb(82, 11, 248);
+
+.box {
+  background-color: $bgColor;
+  font-size: 30px;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  background: url("../assets/img/icon.png");
+}
